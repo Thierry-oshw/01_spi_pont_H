@@ -1,0 +1,13 @@
+### Module positions - created on 24/04/2020 00:15:09 ###
+### Printed by Pcbnew version kicad (5.1.5)-3
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val            Package                           PosX       PosY       Rot  Side
+C1        100nF          C_0805_2012Metric             126.5000   -73.0000  270.0000  top
+C2        10uF           C_1206_3216Metric             124.0000   -77.5000   90.0000  top
+C3        1uF            C_0805_2012Metric             126.5000   -77.0000   90.0000  top
+C5        10uF           C_1206_3216Metric             124.0000   -72.9000  270.0000  top
+C7        100nF          C_0805_2012Metric             141.5000   -77.0625   90.0000  top
+D1        B140-E3        D_SMA                         120.5000   -74.0000  270.0000  top
+U1        NCV7708BDWR2G  SOIC-28W_7.5x17.9mm_P1.27mm   134.0000   -75.0000    0.0000  top
+## End
