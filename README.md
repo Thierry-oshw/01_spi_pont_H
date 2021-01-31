@@ -1,6 +1,5 @@
 # 01_spi_pont_H
-module pont H commandé en SPI
-H bridge SPI drived module  
+module pont H commandé en SPI // H bridge SPI drived module  
 
 Version 2.0 of the CERN Open Hardware Licence: cern_ohl_p_v2.txt
 
