@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L chimere_symbol:NCV7708BDWR2G U1
+L Chimere_comps:NCV7708BDWR2G U1
 U 1 1 5E98C0BB
 P 4100 2800
 F 0 "U1" H 4075 3115 50  0000 C CNN
